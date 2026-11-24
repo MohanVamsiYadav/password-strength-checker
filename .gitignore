@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pot
+hashes.txt
+test_hash.txt
+test_words.txt
+.DS_Store
